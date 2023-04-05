@@ -1,1 +1,1 @@
-# konverter-slova
+# konverter-slova-latinica-u-cirilicu-i-obrnuto
