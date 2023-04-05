@@ -1,0 +1,58 @@
+@media only screen and (max-width: 600px) {
+    .naslov {
+        font-size: 24px;
+    }
+
+    .linija {
+        margin-bottom: 8% !important;
+    }
+
+    .bi {
+        /* display: none; */
+        width: 28px;
+        height: 28px;
+    }
+
+    p {
+        font-size: 12px;
+    }
+
+    #resultat {
+        margin-top: 25px;
+    }
+
+}
+
+h1 {
+    font-size: 32px;
+}
+
+.naslov-span {
+    color: red;
+}
+
+.textarea-label textarea {
+    padding-right: 40px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 150px;
+}
+
+.textarea-label button {
+    position: absolute;
+    top: 5px;
+    right: 5px;
+}
+
+.textarea-position-copy-btn textarea{
+    padding-right: 40px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 150px;
+    margin-bottom: 15px;
+}
+
+.textarea-position-copy-btn button{
+    right: 20px;
+    bottom: 5px;
+}
